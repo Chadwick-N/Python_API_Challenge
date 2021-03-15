@@ -1,0 +1,14 @@
+WeatherPy Observable Trends:
+
+Max Temp Vs Latitude: 
+-The Northern and Southern Hemisphere Mirror each other. As Latitude increases for both hemispheres(adversly for SH), 
+ temperatures start to decline.
+
+Humidity Vs Latitude:
+-Humidity percentages increase as Latitude increases for the Norther Hemisphere.
+-The Southern Hemisphere seems to have a consistent humidity rate throughout Latitude ranges 
+ with a slight decrease in percentages as you lose Latitude.
+
+Cloudiness Vs Latitude:
+-The Northern and Southern Hemisphere share a same theme that as you go lower in Latitude, 
+ you will see a reduction in Cloudiness Percentages.
